@@ -2,7 +2,7 @@
 
 Easy access fonts as a git submodule for using SFMono and SFProText font-faces
 
-# Setup
+### Setup
 
 1. Install git submodule from this repository
 ```bash
